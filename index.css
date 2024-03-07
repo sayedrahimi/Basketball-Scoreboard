@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    background: #374151
+                                        
+}
+
+.container {
+    
+    display: flex;
+    justify-content: center;
+    padding: 30px;   
+        
+}
+#home{
+    margin-bottom: 8px;
+}
+#guest{
+    margin-bottom: 2px;
+}
+.home{
+    text-align: center;
+    color: white;
+}
+#homeScore{
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    background: black;
+    padding: 20px;
+    width: 40px;
+    margin-left: px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+}
+#guestScore{
+    color: #F94F6D;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    background: black;
+    padding: 20px;
+    width: 40px;
+    margin-left: 0px;
+    margin-top: 8px;
+    margin-bottom: 12px;
+    
+}
+.btn{
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    padding: 4px;
+    background: none;
+    color: white;
+    font-size: 10px;
+    border: 1px solid white;
+    border-radius: 4px;    
+}
+#divHome{
+    margin-right: 100px;
+}
+
+
+
+
+
+
+
+
+
